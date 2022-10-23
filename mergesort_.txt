@@ -1,0 +1,11 @@
+[16,21,11,8,12,22] tamsayı dizisinin
+1. merge sort metodu ile sıralnısı
+  16,21,11		8,12,22
+  16,21		11	8,12		22
+  16	21	11	8	12	22
+  11	16	21	8	12	22	
+  8	11	12	16	21	22
+
+[8, 11, 12, 16, 21, 22]
+Big(O) gösterimi O(n)=nlog2tabanında n
+bu örnek için 6.log 2 tabanında 6
