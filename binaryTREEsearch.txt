@@ -1,0 +1,7 @@
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] tam sayı dizisinin binary search tree aşamaları
+ dengeli bir dağılım için kö 5 olsun	
+					5
+				4			6	
+			2		3		7	8
+		0		1					9
+https://www.patika.dev/tr
