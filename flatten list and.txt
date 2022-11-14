@@ -1,0 +1,16 @@
+
+1. Verilen bir listeyi düzleştiren fonksiyon yazmak.
+def flatten(son_liste):
+    if len(son_liste) == 0:
+        return son_liste
+    if isinstance(son_liste[0], list):
+        return flatten(son_liste[0]) + flatten(son_liste[1:])
+    return son_liste[:1] + flatten(son_liste[1:])
+2. Verilen listeyi tersine sıralayan fonksiyon yazmak.
+def tersine_sirali_liste(x):
+    x[0]=x[n]
+    x[1]=x[n-1]
+    ...
+    x[n]=x[0]
+    return tersine_sirali_liste
+x=input('Bir liste giriniz: ')
