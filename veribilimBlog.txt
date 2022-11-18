@@ -1,0 +1,7 @@
+Neden veri bilimini seçtim?
+
+İçine düştüğümüz modern dünyada her gün onlarca karar almak zorundayız. Kahvaltıda ne yemeliyim? Hangi kitabı okumalıyım? Hangi ayakkabıyı almalıyım? Hangi arkadaşımla daha fazla zaman geçirmeliyim?…Bu şekilde pek çok durumda sınırlı bir yaşam süresi içerisinde seçim yapma stresi ile karşı karşıya kalmaktayız. Ya bu seçimler bir kaç seçenek ile sınırlı olmayıp işin içinden çıkılamayacak milyonlarca seçenekten oluşsaydı stres neye dönerdi?
+
+En doğru seçimi belirlemenin en iyi yolu bana çeşitli ölçümler sonucu elde edilen veriye dayanmaktır. Örneğin bir doktorun hastalık teşhisi koyarken veri ile elde edilmiş kesin ölçümlere dayanmayıp öznel yorumlara göre tanı koysa doktora güvenimiz çok azalmaz mı?Doktor “Şöyle bir içinizi açıp bakacağız” dediğinde istemsiz “Neden?” diye sorarız. “Neye dayanarak bunu yapıyorsunuz? Hangi veriye dayanarak“ deriz. Doktorun elinde yeterince veri varsa hayatımızı ona teslim ederiz. Elinde veri yoksa hızla oradan uzaklaşırız.
+
+En doğru kararlar elde edilen verilere dayanan kararlardır. Elde edilen veriler üzerinde kesinliği tartışmasız matematiğin akıl yürütmesi ile elde edilen karar şüphesiz bizim için en doğru seçimdir.
