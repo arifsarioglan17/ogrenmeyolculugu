@@ -1,0 +1,26 @@
+
+Soru1 film tablosunda film uzunluğu length sütununda gösterilmektedir. Uzunluğu ortalama film uzunluğundan fazla kaç tane film vardır?
+
+Cevap1 SELECT * FROM film WHERE length>(SELECT AVG(length) FROM film);
+
+Soru2 film tablosunda en yüksek rental_rate değerine sahip kaç tane film vardır?
+
+Cevap2 SELECT COUNT(MAX(rental_rate) FROM film;
+
+Soru3 film tablosunda en düşük rental_rate ve en düşün replacement_cost değerlerine sahip filmleri sıralayınız.
+
+Cevap2 SELECT rental_rate,replacement_cost FROM film WHERE MIN(rental_rate) AND MIN(replacement_cost);
+
+Soru3 payment tablosunda en fazla sayıda alışveriş yapan müşterileri(customer) sıralayınız.
+
+Cevap3 SELECT MAX(customer) FROM payment;
+
+
+
+
+
+
+
+Patika ve kodluyoruz a teşekkürler
+https://kodluyoruz.org/tr/kodluyoruz/
+https://www.patika.dev/tr
